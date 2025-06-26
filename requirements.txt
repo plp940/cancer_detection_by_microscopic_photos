@@ -1,6 +1,6 @@
-numpy
+numpy==1.26.4
 scikit-learn
 streamlit
 joblib
-tensorflow
+tensorflow==2.19.0
 pillow
